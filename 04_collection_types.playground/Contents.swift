@@ -45,4 +45,28 @@ let immutableArray = [1, 2, 3]
 //immutableArray.append(4) //오류
 //immutableArray.removeAll() //오류
 
+//MARK: - Dictionary
+
+//Key가 String 타입이고 Value가 Any인 빈 Dictionary 생성
+var anyDictionary: Dictionary<String, Any> = [String: Any]()
+anyDictionary["someKey"] = "value"
+anyDictionary["anotherKey"] = "100"
+
+anyDictionary
+
+anyDictionary["someKey"] = "dictionary"
+anyDictionary
+
+anyDictionary.removeValue(forKey: "anotherKey")
+
+anyDictionary["someKey"] = nil
+anyDictionary
+
+let emptyDictionary: [String: String] = [:]
+let initailizedDictionary: [String: String] = ["name": "pupaw", "gender": "female"]
+
+//emptyDictionary["key"] = "value" //오류
+
+//let someValue: String = initailizedDictionary["name"] //오류
+
 
