@@ -11,8 +11,8 @@
   > - [x] 기본 데이터 타입 | [Data Types](https://github.com/pup-paw/Swift-Basics/tree/master/02_data_types.playground)  
   > - [x] Any, AnyObject, nil | [Any, AnyObject, nil](https://github.com/pup-paw/Swift-Basics/tree/master/03_any_object_nil.playground)  
   > - [x] 컬렉션 타입 | [Collection Types](https://github.com/pup-paw/Swift-Basics/tree/master/04_collection_types.playground)  
-  > - [ ] 함수 기본
-  > - [ ] 함수 고급
+  > - [x] 함수 기본 | [Functioin](https://github.com/pup-paw/Swift-Basics/tree/master/05_function.playground)
+  > - [x] 함수 고급 | [Function Advanced](https://github.com/pup-paw/Swift-Basics/tree/master/05_function.playground)
   > - [ ] 조건문
   > - [ ] 반복문
   > - [ ] 옵셔널
