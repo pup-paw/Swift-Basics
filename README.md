@@ -13,13 +13,13 @@
   > - [x] 컬렉션 타입 | [Collection Types](https://github.com/pup-paw/Swift-Basics/tree/master/04_collection_types.playground)  
   > - [x] 함수 기본 | [Functioin](https://github.com/pup-paw/Swift-Basics/tree/master/05_function.playground)
   > - [x] 함수 고급 | [Function Advanced](https://github.com/pup-paw/Swift-Basics/tree/master/05_function.playground)
-  > - [ ] 조건문
-  > - [ ] 반복문
-  > - [ ] 옵셔널
-  > - [ ] 옵셔널 추출
-  > - [ ] 구조체
-  > - [ ] 클래스
-  > - [ ] 열거형
+  > - [x] 조건문 | [Conditional](https://github.com/pup-paw/Swift-Basics/tree/master/07_conditional.playground)
+  > - [x] 반복문 | [Loop](https://github.com/pup-paw/Swift-Basics/tree/master/08_loop.playground)
+  > - [x] 옵셔널 | [Optional](https://github.com/pup-paw/Swift-Basics/tree/master/09_optional.playground)
+  > - [x] 옵셔널 추출 | [Optional Unwrapping](https://github.com/pup-paw/Swift-Basics/tree/master/10_optional_unwrappting.playground)
+  > - [x] 구조체 | [Struct](https://github.com/pup-paw/Swift-Basics/tree/master/11_struct.playground)
+  > - [x] 클래스 [Class](https://github.com/pup-paw/Swift-Basics/tree/master/12_class.playground)
+  > - [x] 열거형 [Enum](https://github.com/pup-paw/Swift-Basics/tree/master/13_enum.playground)
   > - [ ] 클래스 vs 구조체/열거형
   > - [ ] 클로저 기본
   > - [ ] 클로저 고급
