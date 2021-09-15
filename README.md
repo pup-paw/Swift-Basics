@@ -18,14 +18,14 @@
   > - [x] 옵셔널 | [Optional](https://github.com/pup-paw/Swift-Basics/tree/master/09_optional.playground)
   > - [x] 옵셔널 추출 | [Optional Unwrapping](https://github.com/pup-paw/Swift-Basics/tree/master/10_optional_unwrappting.playground)
   > - [x] 구조체 | [Struct](https://github.com/pup-paw/Swift-Basics/tree/master/11_struct.playground)
-  > - [x] 클래스 [Class](https://github.com/pup-paw/Swift-Basics/tree/master/12_class.playground)
-  > - [x] 열거형 [Enum](https://github.com/pup-paw/Swift-Basics/tree/master/13_enum.playground)
-  > - [ ] 클래스 vs 구조체/열거형
-  > - [ ] 클로저 기본
-  > - [ ] 클로저 고급
-  > - [ ] 프로퍼티
-  > - [ ] 프로퍼티 감시자
-  > - [ ] 상속
+  > - [x] 클래스 | [Class](https://github.com/pup-paw/Swift-Basics/tree/master/12_class.playground)
+  > - [x] 열거형 | [Enum](https://github.com/pup-paw/Swift-Basics/tree/master/13_enum.playground)
+  > - [x] 클래스 vs 구조체/열거형 | [Value, Reference](https://github.com/pup-paw/Swift-Basics/tree/master/14_value_reference.playground)
+  > - [x] 클로저 기본 | [Closure](https://github.com/pup-paw/Swift-Basics/tree/master/15_closure.playground)
+  > - [x] 클로저 고급 | [Advanced Closure](https://github.com/pup-paw/Swift-Basics/tree/master/16_advanced_closure.playground)
+  > - [x] 프로퍼티 | [Property](https://github.com/pup-paw/Swift-Basics/tree/master/17_property.playground)
+  > - [x] 프로퍼티 감시자 | [Property Observer](https://github.com/pup-paw/Swift-Basics/tree/master/18_property_observer.playground)
+  > - [x] 상속 | [inheritance](https://github.com/pup-paw/Swift-Basics/tree/master/19_inheritance.playground)
   > - [ ] 인스턴스 생성/소멸
   > - [ ] 옵셔널 체이닝과 nil 병합
   > - [ ] 타입 캐스팅
